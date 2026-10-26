@@ -1,6 +1,8 @@
-# Holy Spirit Guided Prayer Tool
+# Ask for the Fire
 
-**A scripture-rooted guided prayer experience for Christians who want calm, biblical help seeking the gifts of the Holy Spirit, including tongues.**
+A voice that prays with you while you ask Jesus for the gifts of the Holy Spirit, tongues included, the same way Erik Fish walks people through it in person.
+
+Live at [askforthefire.up.railway.app](https://askforthefire.up.railway.app)
 
 Created by **[Erik Fish](https://erikfish.com/)** and **[Caleb Newton](https://calebnewton.me/)**
 
@@ -11,7 +13,7 @@ Created by **[Erik Fish](https://erikfish.com/)** and **[Caleb Newton](https://c
 
 ## What This Is
 
-A focused, AI-voice-guided spiritual formation tool. Not a generic Christian app. Not a startup. A ministry tool designed to do one thing unusually well: guide Christians through seeking the gifts of the Holy Spirit, especially praying in tongues for the first time, the same way Erik Fish does it in person.
+It's a ministry tool that does one thing: guide a Christian through seeking the gifts of the Holy Spirit, especially praying in tongues for the first time. The name comes from Luke 11:13, where Jesus says the Father gives the Holy Spirit to those who ask.
 
 Built from:
 1. A detailed product strategy document (see `docs/PRODUCT_STRATEGY.md`)
